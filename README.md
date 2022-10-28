@@ -2,5 +2,5 @@
 
 Richard Christandi Heriawan 
 
-[Link to repo](https://github.com/user/repo/blob/branch/other_file.md)
+[Link to repo](hhttps://github.com/RichardHeriawan/continuous-integration.git)
 
