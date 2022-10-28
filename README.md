@@ -2,5 +2,5 @@
 
 Richard Christandi Heriawan 
 
-[Link to repo](hhttps://github.com/RichardHeriawan/continuous-integration.git)
+[Link to repo](https://github.com/RichardHeriawan/continuous-integration.git)
 
